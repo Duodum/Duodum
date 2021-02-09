@@ -10,4 +10,4 @@
 💡 I am very interested in Deep Learning.
 
 ----
-![Duodum's github stats](https://github-readme-stats.vercel.app/api?username=Duodum&count_private=true&show_icons=true&theme=algolia)
+![Duodum's github stats](https://github-readme-stats.vercel.app/api?username=Duodum&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)
