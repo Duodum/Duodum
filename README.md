@@ -7,7 +7,7 @@
 
 🔭 I am currently developing in `C#`, `Python`.
 
-💡 I am very interested in Deep Learning.
+💡 I am very interested in Computer Vision.
 
 ----
 ![Duodum's github stats](https://github-readme-stats.vercel.app/api?username=Duodum&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)
