@@ -47,7 +47,7 @@
 
 <a href="https://opgc.me/#/users/Duodum" target="_blank"><img src="https://api.opgc.me/githubs/users/Duodum/tag/?theme=dracula" /></a>
 
-![Duodum's github stats](https://github-readme-stats.vercel.app/api?username=Duodum&count_private=true&show_icons=true&theme=algolia)
+![Duodum's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Duodum&count_private=true&show_icons=true&theme=algolia)
 
 ![Duodum's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=duodum&stroke=ffffff&background=050F2C&ring=0194DD&fire=0194DD&currStreakNum=ffffff&currStreakLabel=0194DD&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 
