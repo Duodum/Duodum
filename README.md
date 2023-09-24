@@ -14,7 +14,7 @@
 
 ### Frameworks
 <div align='left'>
-  <img src="https://img.shields.io/badge/Django-0c4b33?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+<!--   <img src="https://img.shields.io/badge/Django-0c4b33?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
