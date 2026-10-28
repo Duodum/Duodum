@@ -29,17 +29,15 @@ Security vulnerabilities publicly disclosed with credited contributions.
 
 | GHSA | CVE | Severity | Project | Vulnerability |
 |:---|:---|:---|:---|:---|
-| [GHSA-cxf3-9h37-7rr8](https://github.com/advisories/GHSA-cxf3-9h37-7rr8) | — | **Critical (9.1)** | Echo | WebSocket proxy authorization bypass |
-| [GHSA-x9ff-22gv-65f4](https://github.com/advisories/GHSA-x9ff-22gv-65f4) | — | **Moderate (6.3)** | Echo | BodyDump / BodyLimit enforcement bypass |
-| [GHSA-h53f-rm2w-w7rg](https://github.com/advisories/GHSA-h53f-rm2w-w7rg) | — | **Moderate (5.3)** | Echo | X-Real-IP trust validation issue |
+| [GHSA-cxf3-9h37-7rr8](https://github.com/advisories/GHSA-cxf3-9h37-7rr8) | [CVE-2026-118264](https://www.cve.org/CVERecord?id=CVE-2026-118264) | **Critical (9.1)** | Echo | WebSocket proxy authorization bypass |
+| [GHSA-x9ff-22gv-65f4](https://github.com/advisories/GHSA-x9ff-22gv-65f4) | [CVE-2026-118263](https://www.cve.org/CVERecord?id=CVE-2026-118263) | **Moderate (6.3)** | Echo | BodyDump / BodyLimit enforcement bypass |
+| [GHSA-h53f-rm2w-w7rg](https://github.com/advisories/GHSA-h53f-rm2w-w7rg) | [CVE-2026-118265](https://www.cve.org/CVERecord?id=CVE-2026-118265) | **Moderate (5.3)** | Echo | X-Real-IP trust validation issue |
 
 **Disclosure Credits**
 - **GHSA-cxf3-9h37-7rr8** — Reporter
 - **GHSA-x9ff-22gv-65f4** — Reporter
 - **GHSA-h53f-rm2w-w7rg** — Independent duplicate report, credited as Reporter
 
-> CVE identifiers will be added when officially assigned and published.
->
 > Only publicly disclosed advisories are listed. Private or pending reports are excluded.
 
 [View all credited security advisories](https://github.com/advisories?query=credit%3ADuodum)
