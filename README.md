@@ -27,20 +27,25 @@ I aim to identify security issues, understand their root causes, and contribute 
 
 Security vulnerabilities publicly disclosed with credited contributions.
 
-| GHSA | CVE | Severity | Project | Vulnerability |
-|:---|:---|:---|:---|:---|
-| [GHSA-cxf3-9h37-7rr8](https://github.com/advisories/GHSA-cxf3-9h37-7rr8) | [CVE-2026-118264](https://www.cve.org/CVERecord?id=CVE-2026-118264) | **Critical (9.1)** | Echo | WebSocket proxy authorization bypass |
-| [GHSA-x9ff-22gv-65f4](https://github.com/advisories/GHSA-x9ff-22gv-65f4) | [CVE-2026-118263](https://www.cve.org/CVERecord?id=CVE-2026-118263) | **Moderate (6.3)** | Echo | BodyDump / BodyLimit enforcement bypass |
-| [GHSA-h53f-rm2w-w7rg](https://github.com/advisories/GHSA-h53f-rm2w-w7rg) | [CVE-2026-118265](https://www.cve.org/CVERecord?id=CVE-2026-118265) | **Moderate (5.3)** | Echo | X-Real-IP trust validation issue |
+| Project | Advisory | Severity | Vulnerability |
+|:---|:---|:---|:---|
+| Echo | [CVE-2026-118264](https://www.cve.org/CVERecord?id=CVE-2026-118264) ([GHSA-cxf3-9h37-7rr8](https://github.com/advisories/GHSA-cxf3-9h37-7rr8)) | **Critical (9.1)** | WebSocket proxy authorization bypass |
+| Echo | [CVE-2026-118263](https://www.cve.org/CVERecord?id=CVE-2026-118263) ([GHSA-x9ff-22gv-65f4](https://github.com/advisories/GHSA-x9ff-22gv-65f4)) | **Moderate (6.3)** | BodyDump / BodyLimit enforcement bypass |
+| Echo | [CVE-2026-118265](https://www.cve.org/CVERecord?id=CVE-2026-118265) ([GHSA-h53f-rm2w-w7rg](https://github.com/advisories/GHSA-h53f-rm2w-w7rg)) | **Moderate (5.3)** | X-Real-IP trust validation issue |
+| Nuxt | [CVE-2026-119201](https://www.cve.org/CVERecord?id=CVE-2026-119201) ([GHSA-3xf4-9g3c-4h4w](https://github.com/nuxt/nuxt/security/advisories/GHSA-3xf4-9g3c-4h4w)) | **Moderate (4.8)** | Development server appSecret exposure via Vite file serving |
 
-**Disclosure Credits**
-- **GHSA-cxf3-9h37-7rr8** — Reporter
-- **GHSA-x9ff-22gv-65f4** — Reporter
-- **GHSA-h53f-rm2w-w7rg** — Independent duplicate report, credited as Reporter
+### Disclosure Credits
 
-> Only publicly disclosed advisories are listed. Private or pending reports are excluded.
+**Echo**
+- **Reporter** — CVE-2026-118264, CVE-2026-118263
+- **Independent Duplicate Report (Reporter)** — CVE-2026-118265
 
-[View all credited security advisories](https://github.com/advisories?query=credit%3ADuodum)
+**Nuxt**
+- **Reporter** — CVE-2026-119201
+
+> Only publicly disclosed advisories are listed. The Echo X-Real-IP finding was independently reported and acknowledged as a duplicate of an earlier submission.
+
+[View credited advisories in GitHub Advisory Database](https://github.com/advisories?query=credit%3ADuodum)
 
 ---
 
